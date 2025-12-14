@@ -1,2 +1,2 @@
 # Projects
-Projects on integrating Software and hardware using data 
+Projects on integrating Ssoftware and hardware using data 
